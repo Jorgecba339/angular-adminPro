@@ -10,8 +10,8 @@ const routes: Routes = [
 
   // path: '/dashboar,/grafica1,/progress' = PagesRoutingModule
   // path: '/login, /register' = AuthRoutingModule
-  { path: '**', component: NopagefoundComponent },
   { path: '', pathMatch: 'full', redirectTo: '/dashboard' },
+  { path: '**', component: NopagefoundComponent },
 
 ];
 

@@ -1,4 +1,5 @@
 import { Component, Input } from '@angular/core';
+import { ChartType } from 'chart.js';
 import { MultiDataSet, Label, Color } from 'ng2-charts';
 
 @Component({
