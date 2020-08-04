@@ -10,3 +10,15 @@
 .topbar .top-navbar .navbar-header {
     height: 74px;
 }
+
+#google-btn {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+#themecolors .selector,
+.cursor {
+    cursor: pointer;
+}
