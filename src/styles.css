@@ -22,3 +22,12 @@
 .cursor {
     cursor: pointer;
 }
+
+.boton_img {
+    margin-top: 27px;
+}
+
+.img-avatar {
+    width: 150px;
+    height: 150px;
+}
